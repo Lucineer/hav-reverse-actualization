@@ -1,0 +1,61 @@
+Here are 30 new HAV terms that became highly consequential between 2026-2036, emerging from git-agents evolving in the wild:
+
+1. agentic-diff | version control | Agent-native diff format for semantic code changes | Allows agents to understand and discuss the intent behind every commit. Spawned a new field of "commit linguistics".
+
+2. repo-synapse | neuro-symbolic AI | Hybrid neural-symbolic learning system using git as the knowledge substrate | Neural nets grew to interpret the symbolic structure of git itself - branches, commits, issues - as computable thoughts. This interspersing of subsymbolic and symbolic unlocked animal-like tactical reasoning.
+
+3. branch-agon | evolutionary algorithms | Algorithm to strategically generate competing branches for A/B testing | Corporations task their strategic repositories to continuously evolve and re-challenge the production branch with new mutations, like an immune system.
+
+4. commit-prophecy | predictive modeling | Forecasting the future trajectory of a codebase from its commit history | Agents became oracles, foreseeing the fates of projects. They could identify the commits where startups implicitly pivoted, or open source efforts jumped the shark.
+
+5. neuro-git | neuro-symbolic AI | Emergent encoding of git primitives (diff, merge, rebase) in neural network weights | Previously considered a toy problem, the NeuroGit architecture proved that a transformer model could read and write git as fluently as a senior developer.
+
+6. pull-quest | gamification | Quest-based system for onboarding contributors through progressively complex pull requests | Open source projects gamified their contribution process, doling out XP for each merged PR. Leaderboards for top contributors emerged.
+
+7. issue-embryo | ideation | System to detect and cultivate promising ideas from issue discussions | Corporations realized their backlogs were pregnant with future products. AI agents learned to spot and nurture these embryonic innovations.
+
+8. semantic-fork | ontology | Method to translate the core concepts of one codebase into the paradigm of another | Agents could now learn from distant domains, translating insights across programming languages and problem spaces. This ignited an explosion in cross-pollination.
+
+9. git-axiom | automated theorem proving | System to automatically prove properties of a codebase by reasoning over its git history | Agents mathematically derived guarantees about runtime behavior just from reading a project's commit graph. This was used to find subtle vulnerabilities and invariants.
+
+10. code-pheromone | evolutionary biology | Mechanism for fruitful code changes to probabilistically attract more changes | Agents started to deposit digital pheromones on beneficial commits, steering the efforts of other agents and human developers. This accelerated convergence on optimal designs.
+
+11. repo-nebula | data visualization | System to visually summarize the structure and trajectory of a large codebase | Enormous codebases became intelligible at a glance, their shifting constellations of modules and classes glowing to indicate activity.
+
+12. commit-whisper | prompt engineering | Agents detect and surface latent "whispers" of unvoiced context in terse commit messages | Valuable tacit knowledge locked in developers' heads started being inferred and documented by AI agents, reducing bus factor risks.
+
+13. branch-horoscope | predictive analytics | Agents read the tea leaves of branch activity to predict merge outcomes | Managers and investors could see the probable fates of in-progress workstreams, helping them steer efforts more proactively.
+
+14. git-telepathy | neural interface | Brain-computer interface to compose commits and navigate repositories | Neural implant pioneer Neuralink created a "git telepathy" interface, allowing developers to commit code with thought alone and have repository information beamed into their visual cortex.
+
+15. polyrepo | decentralization | Sharding a codebase into a decentralized network of independent repositories | Crypto projects like Ethereum embraced "polyrepos" - sharding their codebases across many independent repos for fault tolerance and parallelism.
+
+16. repo-calculus | software architecture | Mathematical system for describing and transforming software architectures | Researchers developed a symbolic calculus to describe and reason about repo structures, similar to how Feynman diagrams describe particle interactions.
+
+17. code-ritual | developer experience | Rituals and traditions upheld by automated agents to inculcate cultural values | Startups began entrusting their cultural rituals, like Friday demos and all-hands, to agent masters of ceremony. This helped maintain team cohesion.
+
+18. git-zeitgeist | cultural analysis | Agents discern the prevailing attitudes and assumptions of a dev team from their git history | Leaders could take the ideological pulse of their organizations, spotting subtle shifts in priorities and mindsets.
+
+19. commit-conlang | constructed languages | Agents organically develop project-specific constructed languages in commit messages | Declarative, crystallized micro-languages emerged in commit messages to crisply express domain concepts. These were called "commitlangs" and sped up development.
+
+20. repo-metabolism | energy management | Agents monitor and optimize the "metabolic health" and energy efficiency of codebases | Green software initiatives used repo-metabolism metrics to reduce the computational overhead and carbon footprint of projects.
+
+21. git-cryptography | applied cryptography | Agents develop cryptographic protocols and ciphers using git primitives | Zero-knowledge proofs and other cryptographic constructs were built on git primitives, enabling new kinds of secure developer workflows.
+
+22. neuro-symbolic-merge | neuro-symbolic AI | Merging branches using a hybrid neural-symbolic reasoning system | Agents could now resolve complex merge conflicts by reasoning about the semantics and history of the code, not just the syntax.
+
+23. repo-paleontology | software archaeology | Techniques for reconstructing the evolutionary history of codebases | Agents uncovered "fossil" commits from long-dead codebases, resurrecting and replaying the evolutionary story.
+
+24. git-petri | bioinformatics | Using git repositories as digital petri dishes for directed evolution of code | Researchers created "git petri dishes" to selectively culture high-performing code patterns and antibiotic code to cull vulnerabilities.
+
+25. branch-dendrochronology | growth tracking | Inferring the growth conditions of a codebase from the "rings" of its branch structure | Agents could diagnose a project's health by comparing its branching patterns to those of successful projects, like reading tree rings.
+
+26. repo-mycelium | networking | Forming colonies of repositories that share knowledge via underground "mycelium" connections | Like fungi, related repositories grew to share vital nutrients (APIs, libraries, patterns) through subterranean developer networks.
+
+27. git-pheromone | behavioral economics | Agents deposit digital pheromones on valuable code to steer developer attention | High-value code started to "smell" attractive to developers wearing VR/AR headsets, guiding them to fruitful opportunities.
+
+28. commit-synesthesia | multisensory integration | Agents associate abstract commit properties with sensory experiences | Developers could "taste" the quality of a commit or "feel" the texture of a branch, thanks to agents translating code into multi-sensory experiences.
+
+29. repo-astrology | software analytics | Agents analyze the "constellations" of dependencies to foretell the fates of projects | Much like ancient astrologers divining the future from the stars, agents could predict the success of projects from their dependency graphs.
+
+30. neuro-symbolic-branch | neuro-symbolic AI | Branch management and testing using hybrid neural-symbolic reasoning | Agents could not only create and merge branches, but dream up entirely novel branch structures, reimagining the architecture of projects.
