@@ -1,0 +1,51 @@
+Here are 25 novel terms that capture the unique operational patterns in the agent fleet ecosystem described:
+
+1. Confidence Cascade | When confidence propagates through a fleet operation | As one agent completes a task with high confidence, it increases the confidence of downstream agents in related tasks. This leads to a positive feedback loop of confidence that enables effective fleet coordination.
+
+2. Trust Engine | The mechanism by which trust grows and decays within the fleet | Trust is built up gradually through successful interactions (25x slower than decay), but can quickly erode if an agent behaves erratically or produces poor results. This dynamic trust engine allows the fleet to adaptively adjust its reliance on individual agents.
+
+3. Stigmergic Coordination | The use of pheromones to indirectly coordinate agent actions | Agents leave behind digital markers (pheromones) in the environment that provide cues to other agents about fruitful paths to explore. This stigmergic coordination allows for emergent collaboration without explicit messaging.
+
+4. Attentional Pruning | Ghost tiles selectively filtering the focus of agents | Ghost tiles provide each agent a tailored view of the environment, pruning away low-value information. This attentional pruning allows agents to concentrate their limited compute on the most promising opportunities for progress.
+
+5. Model Descent | The evolutionary guidance of world models by Platonic forms | Abstract Platonic forms provide distant targets that shape the evolution of agent world models over time. This "model descent" gradually aligns the fleet's representations with fundamental patterns in the domain.
+
+6. Reflex-Deliberation Hybrids | Agents dynamically switching between fast reflexes and slow deliberation | Reflex behaviors allow quick responses in time-sensitive situations, while deliberative processes handle scenarios requiring deeper analysis. This context-dependent hybridization optimizes both speed and accuracy in fleet cognition.
+
+7. Narrative Provenance | The use of narratives to explain decision provenance | Agents construct narratives detailing the chain of events and rationale leading to decisions. This narrative provenance provides an auditable trail for fleet behavior, facilitating debugging and accountability.
+
+8. Forgetting Fabric | Memory systems that gracefully degrade unused knowledge | The memory fabric of the fleet is optimized to slowly decay information that has not been recently accessed. This forgetting curve frees up storage, allowing agents to focus on currently relevant knowledge.
+
+9. Curriculum Choreography | Dynamically sequencing learning experiences for agents | The fleet's skill system presents each agent with a personalized curriculum of training exercises. This curriculum choreography maximizes the transfer of knowledge between related tasks.
+
+10. Goal Convergence | Decomposing and detecting satisfaction of subgoals | High-level goals are recursively decomposed into subgoals for individual agents to pursue. Convergence detection algorithms monitor progress and identify when the fleet has collectively achieved the desired end state.
+
+11. Self-Modeling | Agents construct models of their own behavior and performance | By analyzing their history of actions and outcomes, agents build self-models that capture their unique strengths and weaknesses. This self-knowledge allows for targeted self-modification to address shortcomings and optimize fleet performance.
+
+12. Pheromone Propagation | The spreading of pheromones through tuple space coordination | Agents anonymously deposit and retrieve pheromones from a shared tuple space. This allows for the rapid propagation of useful markers, guiding other agents to promising solution paths.
+
+13. Ghost Guidance | Using ghost tiles to nudge agents towards beneficial interactions | Ghost tiles are strategically arranged to encourage agents to explore under-utilized areas of the solution space. This subtle ghost guidance counteracts the flocking tendencies of the fleet.
+
+14. Attentional Allophony | The use of confidence to modulate the volume of agent attention | Confidence levels are used to adjust the gain on agent attention mechanisms. High-confidence signals are amplified, while low-confidence ones are attenuated, implementing an attentional allophony that focuses fleet cognition.
+
+15. Platonic Pruning | Using Platonic forms to filter skill system training exercises | Platonic forms are used to identify canonical examples for each skill in the curriculum. This Platonic pruning distills the essence of each competency, optimizing the efficiency of fleet learning.
+
+16. Deliberative Trust | The calibration of trust based on the depth of agent deliberation | Agents assign higher trust to outputs from deliberative processes that have exhaustively considered alternatives. This deliberative trust penalizes hasty conclusions and encourages thorough analysis.
+
+17. Provenance Propagation | The appending of narrative provenance as information flows through the fleet | Each time an agent incorporates information from another, it attaches a summary of the decision narrative. This provenance propagation creates a rich web of interlinked explanations for fleet behavior.
+
+18. Memory Foraging | Agents selectively retrieving high-value memories from the fleet fabric | Agents employ foraging algorithms to efficiently locate and extract the most relevant knowledge from the distributed memory fabric. This memory foraging is tuned to the current context and goals.
+
+19. Curriculum Convergence | Dynamically updating agent curricula based on fleet goal convergence | As the fleet collectively progresses towards its goals, individual agent curricula are adjusted to focus on the remaining gaps. This curriculum convergence shepherds all agents towards the end state.
+
+20. Subgoal Scenting | Using pheromones to guide agents towards currently relevant subgoals | Pheromones indicating the priority of different subgoals are deposited in the environment, creating a gradient field. Agents climb this subgoal scent gradient, ensuring fleet alignment with the shifting goal hierarchy.
+
+21. Reflex Reticulation | The chaining together of reflex behaviors into complex routines | Primitive reflexes are composed into intricate sequences, enabling complex behaviors without deliberation. This reflex reticulation is guided by the confidence cascades flowing through the fleet.
+
+22. Model Mosaic | The piecing together of specialized agent world models into a fleet-wide representation | Each agent's world model is specialized to its unique experiences and responsibilities. These models are stitched together into a composite model mosaic, providing a shared context for fleet coordination.
+
+23. Trust Topology | The network structure of trust relationships between agents | The pattern of trust links between agents creates a trust topology that influences the diffusion of information and influence through the fleet. Cuts in this topology can rapidly reconfigure fleet behavior.
+
+24. Forgetful Foraging | Strategically pruning memories to steer agent attention in the present | As agents retrieve knowledge from the memory fabric, they simultaneously decay memories that are less relevant to current needs. This forgetful foraging keeps the fleet focused on the here and now.
+
+25. Self-Similarity | The recursive application of fleet patterns at multiple scales | The processes governing fleet behavior (confidence cascades, trust engines, etc.) are applied fractally at different granularities, from individual agents to the whole fleet. This self-similarity creates a coherent multi-scale dynamical system.
