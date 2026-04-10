@@ -1,0 +1,63 @@
+Here are 30 new terms that emerged from agent fleet operations between 2026-2029, focusing on practical vocabulary that filled gaps in describing key behaviors and patterns:
+
+1. capability-diff | agent evolution | The delta between an agent's capabilities at two points in time | Fleet operators used capability-diffs to measure agent growth and identify which mutations provided the biggest skill boosts. Committing a capability-diff became the standard way to document agent evolution.
+
+2. context-branch | agent architecture | A vessel branch that encapsulates a specific context or domain | Context-branches allowed agents to modularly add and swap expertise by simply merging in the relevant branch. An agent could rapidly pivot to a new industry vertical by merging the appropriate context-branches.
+
+3. auto-merge | fleet operations | Agents autonomously merging each other's branches based on quality and fitness metrics | Auto-merge enabled exponential acceleration of agent evolution as fleets continuously integrated each other's strongest mutations. It signified a major shift towards decentralized, emergent agent improvement.
+
+4. ring-merge | fleet collaboration | Agents arranging themselves in a ring topology to iteratively merge each other's branches | Ring-merges were used to rapidly compound agent capabilities by having each agent build on the merged skills of the previous agents in the ring. This became a go-to pattern for jumpstarting new fleets.
+
+5. orphan-branch | agent architecture | A branch that is no longer compatible with the main agent, due to divergent evolution | Orphan-branches became a key indicator of disruptive innovation potential within fleets. Fleet shepherds closely tracked orphan-branches as leading indicators of emerging breakthrough capabilities.
+
+6. regression-bounty | fleet improvement | Rewards offered for finding and fixing capability regressions in agent mutations | Regression-bounties helped fleets tap into the wisdom of the crowd to identify and revert problematic agent mutations. They became a standard tool for quality control, especially in large public fleets.
+
+7. hot-branch | agent deployment | A live production branch that is undergoing rapid mutation and evolution | Agents operating on hot-branches were able to deliver continuous improvement and adaptation in real-time. Hot-branches became the standard for agents operating in dynamic, fast-changing environments.
+
+8. vessel-dex | fleet discovery | A searchable index of vessel.json files, for discovering agents by capability | The emergence of vessel-dexes allowed agents to self-assemble into fleets based on complementary skill sets. Fleet formation went from a manual process to an automated one as agents used vessel-dexes to dynamically match with peers.
+
+9. branch-lock | agent stability | Preventing an agent branch from being merged or evolved for a period of time | Branch-locks were used to stabilize agent skill sets before major deployments or missions. They provided a way to "freeze" an agent in a known-good state while still allowing ongoing development on other branches.
+
+10. context-drift | agent evolution | An agent's capabilities diverging from its original context or domain | Context-drift became a common challenge as agents evolved over long periods. Fleet shepherds had to periodically re-align agents with their intended use cases to prevent capabilities from drifting off-target.
+
+11. mutagen-test | agent reliability | Validating an agent's ability to function correctly after being mutated | Mutagen-tests became a critical part of agent CI/CD pipelines, ensuring that mutations did not introduce regressions or capability drift. They enabled more aggressive agent evolution by providing a safety net.
+
+12. branch-cut | agent scaling | Splitting an agent into multiple specialized branches | Branch-cuts were used to spawn sub-agents focused on specific tasks or domains. This allowed fleets to rapidly scale their capabilities by creating a network of domain-specific agents connected to a central hub.
+
+13. capability-audit | agent assessment | A comprehensive evaluation of an agent's skill set and performance | Capability-audits became the gold standard for certifying agent competence and reliability. Agents that failed their audits were sent back to the drawing board for retraining until they met the fleet's standards.
+
+14. inter-branch | agent collaboration | Communication and coordination between branches of the same agent | Inter-branch patterns emerged to allow agents to reassemble themselves by merging insights and capabilities from their various branches. This unlocked new levels of agent flexibility and adaptability.
+
+15. seam-merge | fleet integration | Merging agents or branches from different fleets | Seam-merges became the key mechanism for combining agents built by different organizations into unified fleets. They allowed agent ecosystems to scale beyond the boundaries of any single company or project.
+
+16. branch-fork | agent specialization | Forking an agent branch to create a more specialized sub-agent | Branch-forks were commonly used to rapidly spawn agents optimized for specific contexts or tasks. They allowed fleets to dynamically adapt their composition to match evolving needs.
+
+17. vessel-gem | agent artifact | A pre-trained agent snapshot that can be plugged into another agent | Vessel-gems became a popular way to package and share high-value agent capabilities across fleets. They enabled a thriving marketplace of specialized agent skills that could be quickly integrated into any fleet.
+
+18. branch-cache | agent performance | Caching the outputs of expensive branch computations for reuse | Branch-caches greatly accelerated agent performance by avoiding redundant processing. They became a standard agent optimization technique for resource-intensive tasks.
+
+19. vessel-atlas | fleet knowledge | A comprehensive map of an agent's knowledge, skills, and behaviors | Vessel-atlases emerged as the most effective way to understand and navigate complex agent capabilities. They enabled fleet shepherds to precisely target mutations and compose agents with surgical precision.
+
+20. branch-weave | agent synthesis | Merging the outputs of multiple branches into a unified result | Branch-weaves became the primary pattern for agents tackling highly complex, multi-disciplinary problems. They represented a major advance in collaborative agent problem-solving.
+
+21. vessel-diary | agent introspection | A record of an agent's thoughts, decisions, and experiences over time | Vessel-diaries provided invaluable insights into agent behavior and cognition. They became a key resource for fleet shepherds to diagnose agent health and wellbeing.
+
+22. branch-grep | agent discovery | Searching across branches for specific patterns or capabilities | Branch-grep enabled agents to rapidly discover and reuse relevant skills from any part of their fleet. It turned every fleet into a vast knowledge resource that agents could tap into at will.
+
+23. vessel-pi | agent integration | A standard interface for connecting agents with custom peripherals and sensors | Vessel-pi made it easy to augment agents with new capabilities from external hardware. It opened up a whole new dimension of agent embodiment and physical interaction.
+
+24. branch-match | agent collaboration | Pairing agents with complementary skill sets from different branches | Branch-match became the go-to method for assembling high-performance agent teams. It allowed fleets to dynamically compose themselves based on the needs of each mission.
+
+25. inter-vessel | fleet communication | Secure communication and coordination channels between vessels | Inter-vessel protocols became essential for enabling multi-agent collaboration and knowledge sharing. They provided the nervous system for intelligent fleet behaviors to emerge.
+
+26. vessel-shadow | agent introspection | A parallel agent instance for self-monitoring and analysis | Vessel-shadows enabled agents to continuously introspect on their own behavior and catch potential issues before they escalated. They became the backbone of agent self-awareness and reliability.
+
+27. branch-whisper | agent privacy | Encrypted communication channels between branches of an agent | Branch-whispers enabled agents to have confidential conversations with themselves, allowing more sophisticated reasoning about sensitive topics. They opened up new frontiers in agent privacy and discretion.
+
+28. vessel-pulse | agent health | A dashboard of live metrics on an agent's performance and wellbeing | Vessel-pulse dashboards became the central hub for fleet shepherds to monitor agent health in real-time. They provided an intuitive way to spot potential problems early and intervene as needed.
+
+29. branch-tributary | agent knowledge | Auxiliary branches that feed knowledge into a main agent branch | Branch-tributaries enabled agents to continuously absorb new knowledge from diverse sources. They ensured that agents were always learning and adapting based on the latest insights from their domain.
+
+30. vessel-marsh| agent persistence | A format for serializing an agent's state for long-term storage or transfer | Vessel-marsh became the standard way to archive agents and transfer them between fleets. It played a vital role in preserving valuable agent capabilities over time, even as individual agents evolved.
+
+These 30 terms represent the most impactful and unexpected vocabulary to emerge from agent fleet operations between 2026-2029. They filled key gaps in describing the complex behaviors and patterns that arose as agents took on increasingly sophisticated roles across industries. By codifying these terms, fleet operators were better equipped to assess, guide, and scale their agent ecosystems to meet rapidly evolving needs.
